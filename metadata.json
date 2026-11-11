@@ -1,0 +1,6 @@
+{
+  "name": "Ziyo Kitoblar Do'koni",
+  "description": "Katta yoshdagilar va kitobxonlar uchun qulay, sokin va ishonchli onlayn kitob do'koni. Bolalar tarbiyasi, psixologiya, jahon klassikasi va ma'rifiy adabiyotlar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
